@@ -9,4 +9,5 @@ def test_training_runs():
         run_training()
     except Exception as e:
         pytest.fail(f"run_training() raised an exception: {e}")
+        pytest.
 
